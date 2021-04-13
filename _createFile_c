@@ -1,0 +1,28 @@
+/** @file       %FILENAMELC%.c
+ *  @brief      %BRIEF%
+ *  @copyright  (c) %YEAR%- Evren Kenanoglu - All Rights Reserved
+ *              Permission to use, reproduce, copy, prepare derivative works,
+ *              modify, distribute, perform, display or sell this software and/or
+ *              its documentation for any purpose is prohibited without the express
+ *              written consent of Evren Kenanoglu A.S.
+ *  @author     %AUTHOR%
+ *  @date       %DATE%
+ */
+#define FILE_%FILENAMEUC%_C
+
+/** INCLUDES ******************************************************************/
+#include "%FILENAMELC%.h"
+
+/** CONSTANTS *****************************************************************/
+
+/** TYPEDEFS ******************************************************************/
+
+/** MACROS ********************************************************************/
+
+/** VARIABLES *****************************************************************/
+
+/** LOCAL FUNCTION DECLARATIONS ***********************************************/
+
+/** INTERFACE FUNCTION DEFINITIONS ********************************************/
+
+/** LOCAL FUNCTION DEFINITIONS ************************************************/

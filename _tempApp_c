@@ -1,0 +1,21 @@
+/** @file       %FILENAMELC%.c
+ *  @brief      %FILENAMEUC% application program file
+ *  @copyright  (c) %YEAR%-Evren Kenanoglu - All Rights Reserved
+ *              Permission to use, reproduce, copy, prepare derivative works,
+ *              modify, distribute, perform, display or sell this software and/or
+ *              its documentation for any purpose is prohibited without the express
+ *              written consent of Evren Kenanoglu.
+ *  @author     %AUTHOR%
+ *  @date       %DATE%
+ */
+#define FILE_%FILENAMEUC%_C
+
+#include "%FILENAMELC%.h"
+
+/**
+ *  @addtogroup %FILENAMEUC%
+ *  @{
+ */
+
+
+/** @} */
