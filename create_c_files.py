@@ -59,9 +59,7 @@ def createFiles():
     authorName = entryAuthor.get()
     about = entryFileAbout.get()
     if len(fileName)<3:
-        messagebox.showerror("Error","File name error!")
-    else if :
-        
+        messagebox.showerror("Error","File name error!")        
     else:
         createSourceFile(fileName, authorName, about)
         createHeaderFile(fileName, authorName, about)
